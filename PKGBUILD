@@ -1,7 +1,7 @@
 pkgname=overlayroot
-pkgver=0.2
-pkgrel=2
-pkgdesc="overlayFS root file system"
+pkgver=1.0
+pkgrel=0
+pkgdesc="overlay for the root file system"
 arch=('any')
 url="https://github.com/nils-werner/arch-overlayroot"
 license=('MIT')
